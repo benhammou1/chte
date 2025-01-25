@@ -1,0 +1,58 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-qR0EzD2C.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/css/auth.css": {
+    "file": "assets/auth-DKpYu5fS.css",
+    "src": "resources/css/auth.css",
+    "isEntry": true
+  },
+  "resources/css/formule.css": {
+    "file": "assets/formule-BtaMC8nj.css",
+    "src": "resources/css/formule.css",
+    "isEntry": true
+  },
+  "resources/css/gestion.css": {
+    "file": "assets/gestion-CG-kx-89.css",
+    "src": "resources/css/gestion.css",
+    "isEntry": true
+  },
+  "resources/css/history.css": {
+    "file": "assets/history-CQJkbvsa.css",
+    "src": "resources/css/history.css",
+    "isEntry": true
+  },
+  "resources/css/home.css": {
+    "file": "assets/home-BvJORLtl.css",
+    "src": "resources/css/home.css",
+    "isEntry": true
+  },
+  "resources/css/pagination.css": {
+    "file": "assets/pagination-DyD4yPz2.css",
+    "src": "resources/css/pagination.css",
+    "isEntry": true
+  },
+  "resources/css/rating.css": {
+    "file": "assets/rating-BdDqovP7.css",
+    "src": "resources/css/rating.css",
+    "isEntry": true
+  },
+  "resources/css/static.css": {
+    "file": "assets/static-BdW2HTCW.css",
+    "src": "resources/css/static.css",
+    "isEntry": true
+  },
+  "resources/css/themes.css": {
+    "file": "assets/themes-Jv1PH5vB.css",
+    "src": "resources/css/themes.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-Xaw6OIO1.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
